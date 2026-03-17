@@ -1,6 +1,3 @@
-# Root-Finding-Project
-Numerical root-finding toolbox in Python — implements Bisection, Newton, Secant, False Position, Fixed-Point, Muller, Steffensen, and Horner's methods via a single solve() interface. No external libraries.
-
 # RootFindingProblem
 
 A Python numerical root-finding toolbox implementing classical iterative methods for solving `f(x) = 0`. Built using only Python's standard library and `cmath` — no external solvers.
